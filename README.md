@@ -23,7 +23,18 @@ creamos un disco duro nuevo de 5GB
 y le damos a next y ya estaria listo
 una vez listo reiniciamos la maquina y deberia aparecer asi
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/26b8c582-6121-4b61-8045-d5cec7e81458" />
+le damos click derecho al nuevo disco y le hacemos click a nuevo volumen simple
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a1f5dd95-605b-4f5a-b8c1-1c5d6b76219f" />
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/00d26d25-434b-469d-996c-99556c999cf7" />
+ahora a siguiente
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a6ab5ccd-1334-4cba-a64a-291a60aeb154" />
+siguiete denuevo
+y dejamos el espacio predeterminado de el disco y le cambiamos la letra que identifica al disco y le damos a siguiente y a finalizar 
+despues vamos al explorador de archivos y creamos una carpeta con el nombre y apellido de un participante del grupo en este caso es benjamin gonzalez esta deberia ser la ruta de la carpeta que esta en el disco duro Y:/Benjamin Gonzalez
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8bc57f80-0bf5-4b56-b7c2-306456384934" />
+y lo mismo con el otro disco con el nombre de otro participante que seria carlos funez esta deberia ser la ruta de la carpeta que esta en el disco duro  x:/Carlos Funez
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9a992477-c390-454e-b1bb-2c15e3949bbb" />
 
 
 
