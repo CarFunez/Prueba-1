@@ -33,7 +33,6 @@ y dejamos el espacio predeterminado de el disco y le cambiamos la letra que iden
 despues vamos al explorador de archivos y creamos una carpeta con el nombre y apellido de un participante del grupo en este caso es benjamin gonzalez esta deberia ser la ruta de la carpeta que esta en el disco duro Y:/Benjamin Gonzalez
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8bc57f80-0bf5-4b56-b7c2-306456384934" />
 y lo mismo con el otro disco con el nombre de otro participante que seria carlos funez esta deberia ser la ruta de la carpeta que esta en el disco duro  x:/Carlos Funez
-
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9a992477-c390-454e-b1bb-2c15e3949bbb" />
 
 
