@@ -19,6 +19,10 @@ creamos un disco duro nuevo de 5GB
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/41611442-02dd-472b-a07e-256c06892e37" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/96ad614d-b825-47e6-937d-ede88a5247fc" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e7ffcbf9-4c26-4694-b3e3-621fc8bb318c" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d7f81e43-e861-4c64-9b20-90304ecb7674" />
+y le damos a next y ya estaria listo
+una vez listo reiniciamos la maquina y deberia aparecer asi
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/26b8c582-6121-4b61-8045-d5cec7e81458" />
 
 
 
